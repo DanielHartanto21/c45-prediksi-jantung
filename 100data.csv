@@ -1,0 +1,101 @@
+HeartDisease;BMI;Smoking;AlcoholDrinking;Stroke;PhysicalHealth;MentalHealth;DiffWalking;Sex;AgeCategory;Race;Diabetic;PhysicalActivity;GenHealth;SleepTime;Asthma;KidneyDisease;SkinCancer
+No;16.6;Yes;No;No;3;30;No;Female;55-59;White;Yes;Yes;Very good;5;Yes;No;Yes
+No;20.34;No;No;Yes;0;0;No;Female;80 or older;White;No;Yes;Very good;7;No;No;No
+No;26.58;Yes;No;No;20;30;No;Male;65-69;White;Yes;Yes;Fair;8;Yes;No;No
+No;24.21;No;No;No;0;0;No;Female;75-79;White;No;No;Good;6;No;No;Yes
+No;23.71;No;No;No;28;0;Yes;Female;40-44;White;No;Yes;Very good;8;No;No;No
+Yes;28.87;Yes;No;No;6;0;Yes;Female;75-79;Black;No;No;Fair;12;No;No;No
+No;21.63;No;No;No;15;0;No;Female;70-74;White;No;Yes;Fair;4;Yes;No;Yes
+No;31.64;Yes;No;No;5;0;Yes;Female;80 or older;White;Yes;No;Good;9;Yes;No;No
+No;26.45;No;No;No;0;0;No;Female;80 or older;White;No, borderline diabetes;No;Fair;5;No;Yes;No
+No;40.69;No;No;No;0;0;Yes;Male;65-69;White;No;Yes;Good;10;No;No;No
+Yes;34.3;Yes;No;No;30;0;Yes;Male;60-64;White;Yes;No;Poor;15;Yes;No;No
+No;28.71;Yes;No;No;0;0;No;Female;55-59;White;No;Yes;Very good;5;No;No;No
+No;28.37;Yes;No;No;0;0;Yes;Male;75-79;White;Yes;Yes;Very good;8;No;No;No
+No;28.15;No;No;No;7;0;Yes;Female;80 or older;White;No;No;Good;7;No;No;No
+No;29.29;Yes;No;No;0;30;Yes;Female;60-64;White;No;No;Good;5;No;No;No
+No;29.18;No;No;No;1;0;No;Female;50-54;White;No;Yes;Very good;6;No;No;No
+No;26.26;No;No;No;5;2;No;Female;70-74;White;No;No;Very good;10;No;No;No
+No;22.59;Yes;No;No;0;30;Yes;Male;70-74;White;No, borderline diabetes;Yes;Good;8;No;No;No
+No;29.86;Yes;No;No;0;0;Yes;Female;75-79;Black;Yes;No;Fair;5;No;Yes;No
+No;18.13;No;No;No;0;0;No;Male;80 or older;White;No;Yes;Excellent;8;No;No;Yes
+No;21.16;No;No;No;0;0;No;Female;80 or older;Black;No, borderline diabetes;No;Good;8;No;No;No
+No;28.9;No;No;No;2;5;No;Female;70-74;White;Yes;No;Very good;7;No;No;No
+No;26.17;Yes;No;No;0;15;No;Female;45-49;White;No;Yes;Very good;6;No;No;No
+No;25.82;Yes;No;No;0;30;No;Male;80 or older;White;Yes;Yes;Fair;8;No;No;No
+No;25.75;No;No;No;0;0;No;Female;80 or older;White;No;Yes;Very good;6;No;No;Yes
+No;29.18;Yes;No;No;30;30;Yes;Female;60-64;White;No;No;Poor;6;Yes;No;No
+No;34.34;Yes;No;No;21;8;Yes;Female;65-69;White;No;Yes;Fair;9;No;No;No
+No;31.66;Yes;No;No;5;0;No;Male;60-64;White;No;Yes;Very good;5;No;No;No
+No;24.89;No;No;No;1;0;No;Female;55-59;White;No;Yes;Very good;7;No;No;No
+No;36.58;No;No;No;0;0;No;Female;60-64;White;Yes;No;Good;5;No;No;Yes
+No;25.84;Yes;No;No;5;0;No;Male;70-74;Black;No;Yes;Good;8;No;No;No
+No;30.67;No;No;No;4;4;Yes;Female;80 or older;White;No;Yes;Fair;8;Yes;No;No
+No;45.35;No;No;No;30;0;Yes;Male;70-74;White;Yes;No;Good;8;No;No;No
+No;19.02;Yes;No;No;0;5;No;Female;60-64;White;No;Yes;Very good;9;No;No;No
+No;38.97;No;No;No;0;0;Yes;Female;70-74;Black;No;No;Good;6;No;No;No
+Yes;32.98;Yes;No;Yes;10;0;Yes;Male;75-79;White;Yes;Yes;Poor;4;No;No;Yes
+No;24.62;No;No;No;5;0;No;Female;80 or older;White;No;Yes;Good;6;No;No;No
+No;20.43;Yes;No;No;3;3;No;Female;65-69;White;No;Yes;Fair;5;Yes;No;Yes
+No;27.37;Yes;No;No;0;0;No;Female;80 or older;White;No;No;Very good;8;No;No;No
+No;21.93;No;No;No;3;2;No;Female;70-74;Black;No;Yes;Fair;4;No;Yes;No
+No;22.6;Yes;No;Yes;0;10;No;Female;55-59;White;No;No;Very good;8;No;No;No
+No;28.13;No;No;No;0;0;No;Male;60-64;White;No;Yes;Excellent;8;No;No;No
+Yes;25.06;No;No;No;0;0;Yes;Female;80 or older;White;Yes;No;Good;7;No;No;Yes
+Yes;30.23;Yes;No;No;6;2;Yes;Female;75-79;White;Yes;Yes;Fair;8;No;Yes;No
+No;30.34;Yes;No;No;30;10;Yes;Male;55-59;White;No, borderline diabetes;No;Fair;6;No;No;No
+Yes;20.37;Yes;No;No;3;0;No;Female;70-74;White;No;No;Poor;10;No;No;No
+No;33.23;No;No;No;0;0;No;Male;65-69;White;Yes;Yes;Very good;8;No;No;No
+No;25.11;No;No;No;5;5;No;Female;65-69;Black;No;Yes;Good;7;No;No;No
+No;20.12;No;No;No;0;0;Yes;Female;80 or older;White;No;No;Fair;7;No;No;Yes
+No;27.46;Yes;No;Yes;15;0;No;Male;75-79;White;No;Yes;Poor;8;No;No;No
+No;26.61;No;No;No;0;0;No;Female;65-69;White;No;Yes;Good;12;Yes;No;No
+No;31.09;No;No;No;2;0;No;Female;65-69;White;No;Yes;Very good;7;No;No;No
+No;27.12;Yes;No;No;2;0;No;Male;80 or older;White;Yes;Yes;Fair;7;No;No;Yes
+No;32.61;Yes;No;No;0;0;No;Female;65-69;White;No;Yes;Very good;7;No;No;No
+No;32.1;No;No;No;14;0;No;Male;65-69;White;Yes;Yes;Very good;9;No;No;No
+No;24.02;No;Yes;No;7;0;No;Female;60-64;White;No;Yes;Excellent;6;No;No;No
+No;32.55;Yes;No;No;0;0;No;Male;75-79;White;No;No;Very good;8;No;No;No
+No;46.52;Yes;No;No;30;0;No;Male;65-69;White;Yes;No;Poor;8;Yes;No;No
+No;29.55;No;No;No;0;0;No;Male;70-74;White;Yes;Yes;Good;7;No;No;No
+No;27.2;Yes;No;Yes;0;0;No;Male;80 or older;White;No;No;Very good;8;No;No;Yes
+No;28.94;Yes;No;No;0;0;No;Female;70-74;White;Yes;Yes;Good;5;Yes;No;No
+No;21.03;No;No;No;1;0;No;Female;80 or older;White;No;Yes;Excellent;8;No;No;No
+No;22.31;No;No;No;0;0;No;Female;80 or older;White;No;Yes;Very good;6;No;No;Yes
+No;31.46;Yes;No;No;0;0;No;Male;75-79;White;No;Yes;Very good;8;No;No;No
+No;24.21;No;No;No;3;0;No;Female;50-54;Black;No;Yes;Good;8;No;No;No
+No;26.63;No;No;No;20;0;No;Female;65-69;White;No;Yes;Fair;6;No;Yes;No
+No;34.01;Yes;No;No;14;0;No;Female;80 or older;White;No;No;Good;7;Yes;Yes;Yes
+No;22.04;No;No;No;0;0;No;Male;65-69;White;No;Yes;Very good;8;No;No;No
+No;23.87;No;No;No;0;0;No;Male;80 or older;White;No;Yes;Very good;7;No;No;No
+No;40;No;No;No;0;0;No;Male;60-64;Asian;Yes;No;Good;6;No;No;No
+No;21.97;No;No;No;0;0;No;Female;65-69;Black;No;No;Very good;10;Yes;No;No
+No;27.76;Yes;No;No;15;0;Yes;Female;80 or older;White;No;No;Good;8;Yes;No;No
+No;33.75;No;No;No;0;5;No;Male;50-54;White;Yes;Yes;Good;10;Yes;No;No
+No;30.23;No;No;No;0;5;No;Female;65-69;White;No;Yes;Good;6;No;No;No
+No;34.3;Yes;No;No;3;3;No;Male;60-64;White;No;Yes;Good;7;No;No;No
+No;25.54;Yes;No;Yes;0;0;No;Male;80 or older;American Indian/Alaskan Native;No;No;Fair;6;Yes;No;No
+No;27.63;Yes;No;No;30;5;No;Female;75-79;White;Yes;Yes;Very good;8;No;No;No
+Yes;34.33;No;No;No;0;0;No;Female;55-59;White;No;Yes;Good;8;No;No;No
+Yes;28.29;Yes;No;No;30;30;No;Female;70-74;White;Yes;Yes;Poor;9;No;Yes;No
+No;30.56;Yes;No;No;0;0;No;Female;60-64;Black;No;Yes;Excellent;6;No;No;No
+No;21.14;Yes;No;No;30;0;Yes;Female;65-69;White;No;No;Poor;8;No;No;Yes
+No;29.53;Yes;No;No;18;0;No;Male;50-54;White;No;Yes;Fair;6;Yes;No;No
+No;24.37;Yes;No;No;0;0;No;Female;55-59;White;No;Yes;Excellent;6;No;No;No
+No;28.25;No;No;No;0;3;Yes;Male;75-79;White;No;Yes;Good;8;No;No;No
+No;27.46;Yes;No;No;7;15;No;Female;75-79;White;No;No;Good;7;No;No;No
+No;23.78;No;No;No;0;5;No;Female;70-74;White;No;Yes;Excellent;8;No;No;No
+No;34.75;Yes;No;No;0;0;No;Female;45-49;White;No;No;Very good;7;No;No;Yes
+No;22.67;No;No;No;0;3;No;Female;80 or older;Black;No;Yes;Good;8;No;No;No
+No;32.81;Yes;No;No;0;0;Yes;Female;70-74;White;Yes;Yes;Good;5;No;No;No
+No;27.05;No;No;No;5;5;No;Female;75-79;White;No;Yes;Good;8;No;No;No
+No;44.29;No;No;No;30;10;Yes;Female;70-74;White;No;No;Fair;7;No;No;Yes
+No;36.02;No;No;No;0;0;No;Female;70-74;White;No;Yes;Very good;7;No;No;No
+No;21.8;Yes;No;No;0;0;No;Female;75-79;White;No;Yes;Very good;8;No;No;Yes
+No;22.05;No;No;No;0;0;No;Female;75-79;White;No;Yes;Good;8;No;No;Yes
+No;23.96;Yes;No;No;0;0;No;Female;60-64;Black;No;Yes;Excellent;5;No;No;No
+No;19.49;No;No;No;0;0;No;Female;45-49;White;No;Yes;Excellent;7;Yes;No;No
+No;24.02;No;No;No;0;14;No;Female;70-74;White;No;Yes;Very good;7;No;No;Yes
+No;28.35;Yes;No;No;20;0;No;Female;65-69;White;No;No;Very good;8;No;No;No
+No;24.37;No;No;No;0;0;No;Female;55-59;White;No;Yes;Very good;7;Yes;No;No
+No;19.47;Yes;No;No;0;10;No;Female;65-69;White;No;Yes;Very good;8;No;No;No
